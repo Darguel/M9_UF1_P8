@@ -1,0 +1,50 @@
+.menu-hd{
+    background-color: #985CED;
+}
+.img-hd{
+    height: 40px; 
+}
+
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-left{
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+}
+
+.flex-right{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.bg-intro{
+    background-image: url(src/bg-itzy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.titulo{
+    font-size: 124px;
+    color: rgb(215, 60, 60);
+}
+
+.tittle-section{
+    background-color: #985CED;
+}
+.img-ryujin{
+    height: 300px;
+}
+.bg-runaway{
+    background-color: darkred;
+}
+
+@media (max-width: 430px) {
+    
+}
